@@ -9,7 +9,7 @@ cd /path/to/bitbar-plugin-directory/
 # download the source
 git clone https://github.com/RyoIkarashi/coincheck-price-viewer.git
 # move to the directory and install node moduels
-( cd coincheck-price-viewer && npm install )
+( cd coincheck-price-viewer && yarn install )
 # add a symlink to (make sure you're in a bitbar plugin directory)
 ln -s ./coincheck-price-viewer/coincheck.5s.js
 ```
