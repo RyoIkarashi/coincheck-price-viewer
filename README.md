@@ -19,4 +19,4 @@ ln -s ./coincheck-price-viewer/coincheck.5s.js
 Edit `env.json` and replace `<YOUR_ACCESS_KEY>` and `<YOUR_ACCESS_SECRET_KEY>` with yours.
 
 ## Screenshot
-![Screenshot](https://raw.githubusercontent.com/RyoIkarashi/coincheck-price-viewer/screenshots/screenshots/Screen%20Shot%202017-10-26%20at%2013.17.58.png)
+![screenshot](https://user-images.githubusercontent.com/5750408/32035498-a5239428-ba54-11e7-8560-b1aff376230c.png)
