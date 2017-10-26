@@ -20,3 +20,6 @@ Edit `env.json` and replace `<YOUR_ACCESS_KEY>` and `<YOUR_ACCESS_SECRET_KEY>` w
 
 ## Screenshot
 ![screenshot](https://user-images.githubusercontent.com/5750408/32035498-a5239428-ba54-11e7-8560-b1aff376230c.png)
+
+## License
+MIT
