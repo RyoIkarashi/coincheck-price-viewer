@@ -4,7 +4,7 @@ const bitbar = require('bitbar');
 const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
-var crypto = require('crypto');
+const crypto = require('crypto');
 
 const data = require('./coincheck.json');
 const COINS = require('./coins');
