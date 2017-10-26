@@ -1,15 +1,12 @@
 {
-  "name": "clear",
+  "name": "coincheck-price-viewer",
   "version": "1.0.0",
   "description": "A tiny coincheck price viewer plugin for bitbar",
   "main": "coincheck.5s.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/RyoIkarashi/coincheck-price-viewer.git"
-  },
+  "repository": "git+https://github.com/RyoIkarashi/coincheck-price-viewer.git",
   "author": "Ryo Ikarashi",
   "license": "MIT",
   "bugs": {
