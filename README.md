@@ -3,6 +3,8 @@ A tiny coincheck price viewer for bitbar
 
 ## Installation
 
+Make sure your `/usr/local/bin/node -v` is **over v7.6.0** which supports `async`/`await`
+
 ```bash
 # move to a bitbar plugin directory
 cd /path/to/bitbar-plugin-directory/
@@ -19,7 +21,7 @@ ln -s ./coincheck-price-viewer/coincheck.5s.js
 Edit `env.json` and replace `<YOUR_ACCESS_KEY>` and `<YOUR_ACCESS_SECRET_KEY>` with yours.
 
 ## Screenshot
-![screenshot](https://user-images.githubusercontent.com/5750408/32035498-a5239428-ba54-11e7-8560-b1aff376230c.png)
+![screen shot 2017-10-31 at 15 53 15](https://user-images.githubusercontent.com/5750408/32211052-25739bd4-be54-11e7-8d99-e65b1fc00d41.png)
 
 ## License
 MIT
