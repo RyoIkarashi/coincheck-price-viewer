@@ -30,7 +30,7 @@ const getHTML = async () => {
 
   const content = await page.content();
   const $ = cheerio.load(content);
-  browser.close();
+  await browser.close();
   return $;
 }
 
