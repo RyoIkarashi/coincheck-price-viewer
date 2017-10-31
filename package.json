@@ -16,8 +16,8 @@
   "dependencies": {
     "axios": "^0.17.0",
     "bitbar": "^0.3.0",
+    "cheerio": "^1.0.0-rc.2",
     "crypto": "^1.0.1",
-    "fs": "^0.0.1-security",
-    "path": "^0.12.7"
+    "puppeteer": "^0.12.0"
   }
 }
