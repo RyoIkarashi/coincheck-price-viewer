@@ -1,5 +1,5 @@
 # coincheck-price-viewer
-A tiny coincheck price viewer for bitbar
+A tiny [coincheck](https://coincheck.com) price viewer for [bitbar](https://getbitbar.com/)
 
 ## Installation
 
