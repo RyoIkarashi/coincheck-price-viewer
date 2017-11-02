@@ -25,3 +25,7 @@ Edit `env.json` and replace `<YOUR_ACCESS_KEY>` and `<YOUR_ACCESS_SECRET_KEY>` w
 
 ## License
 MIT
+
+If you feel this little tool gives you some value, tips are always welcome at the following addresses!
+- Bitcoin: 1DrLPjzmNHtkdBstd82xvCxGY38PnKauRH
+- Mona:    MC7XMmi1YXoJH19D1q4H8ijBkdvarWBTMi
